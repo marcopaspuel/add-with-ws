@@ -4,8 +4,8 @@ version = 3
 
 [[package]]
 name = "add_one"
-version = "0.0.3"
+version = "0.0.4"
 
 [[package]]
 name = "adder"
-version = "0.0.2"
+version = "0.0.4"
