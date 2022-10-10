@@ -1,6 +1,6 @@
 [package]
-name = "add_one"
-version = "0.0.4"
+name = "marco_paspuel_add_one"
+version = "0.0.5"
 edition = "2021"
 description = "Test cargo workpaces publish add one"
 license = "MIT"

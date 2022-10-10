@@ -3,9 +3,9 @@
 version = 3
 
 [[package]]
-name = "add_one"
-version = "0.0.4"
+name = "marco_paspuel_add_one"
+version = "0.0.5"
 
 [[package]]
-name = "adder"
-version = "0.0.4"
+name = "marco_paspuel_adder"
+version = "0.0.5"
