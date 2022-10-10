@@ -1,3 +1,6 @@
+description = ["Test cargo workpaces publish"]
+license = ["MIT"]
+
 [workspace]
 members = [
     "adder",
