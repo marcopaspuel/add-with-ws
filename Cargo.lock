@@ -4,7 +4,7 @@ version = 3
 
 [[package]]
 name = "marco_paspuel_add_one"
-version = "0.0.5"
+version = "0.0.6"
 
 [[package]]
 name = "marco_paspuel_adder"
