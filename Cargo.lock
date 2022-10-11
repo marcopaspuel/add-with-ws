@@ -8,4 +8,4 @@ version = "0.0.7"
 
 [[package]]
 name = "marco_paspuel_adder"
-version = "0.0.5"
+version = "0.0.6"
